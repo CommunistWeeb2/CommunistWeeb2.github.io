@@ -10,7 +10,7 @@
 .navbar {
     width: 100%;
     background-color: black;
-    height: 20px;
+    height: -20px;
 }
 
 footer {
