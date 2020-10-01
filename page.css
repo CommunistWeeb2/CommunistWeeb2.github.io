@@ -29,8 +29,13 @@ footer {
     color: white;
 }
 
-.img {
+img {
     position: absolute;
     top: 0%;
     right: 0%;
 }
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
