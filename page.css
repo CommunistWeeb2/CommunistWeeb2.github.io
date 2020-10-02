@@ -38,7 +38,7 @@ img {
 .responsive {
     width: 100%;
     height: auto;
-    filter: brightness(50%);
+    filter: brightness(75%);
     top: 0%;
   }
 
@@ -58,5 +58,11 @@ img {
   }
 
   h2 {
-      position: absolute;
+      position: sticky;
+      font-size: 50px;
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      left: 0%;
+      text-align: center;
+      vertical-align: center;
   }
