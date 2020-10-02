@@ -56,3 +56,7 @@ img {
       background-color: black;
       opacity: 0.3;
   }
+
+  h2 {
+      position: absolute;
+  }
