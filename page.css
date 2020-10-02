@@ -58,11 +58,10 @@ img {
   }
 
   h2 {
-      position: sticky;
+      position: absolute;
       font-size: 50px;
       color: white;
       font-family: Arial, Helvetica, sans-serif;
-      left: 0%;
-      text-align: center;
-      vertical-align: center;
+      right: 2.5%;
+      bottom: 85%;
   }
